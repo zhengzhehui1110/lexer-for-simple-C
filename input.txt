@@ -1,0 +1,15 @@
+int main()
+{
+float b = 3.14159;
+int a=509;
+b = a+1;
+a = b - 1;
+b = a%10;
+a =b/9.9;
+a = a*a;
+string c = "hello world!";
+char ddd = '\n';
+if(a==b) printf("%c",b);
+else printf("%d",a);
+return;
+}#
