@@ -1,5 +1,6 @@
 # lexer-for-simple-C
 a lexer for simple C in language C
+简易C语言词法分析器
 code rule:
 identification for variable	1	ID
 const int	2	CINT
